@@ -81,7 +81,6 @@ public class Code01_CordCoverMaxPoint {
 				break;
 			}
 		}
-
 	}
 
 }
